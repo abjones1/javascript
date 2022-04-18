@@ -1,0 +1,14 @@
+{
+  "name": "mocha_learning",
+  "version": "1.0.0",
+  "description": "sandbox for playing with mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^9.1.3"
+  }
+}
